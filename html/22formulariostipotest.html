@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+    <head>
+        <meta charset="utf-8">
+        <title>formularios</title>
+    </head>
+
+    <body>
+        <form action="https://webhook.site/38edfdcc-3254-4fc6-87b1-852158c66006" method="post"><!--etiqueta para crear formulario-->
+            <p> introduce tu nombre de usuario</p>
+            <input><!--espacio para llenar la informacion e resivir los datos-->
+            <p>introduce contraseña</p>
+            <input>
+        </form>
+<hr/>
+        <from>
+            <p>nombre</p>
+            <input type="text"><!--atributo para escribir texto-->
+            <p>introduce contraseña</p>
+            <input type="password"><!--etiqueta para contraseña-->
+            <p>correo</p>
+            <input type="email">
+            <p>abjunta un fichero</p>
+            <input type="file"><!--permite introducir archivo-->
+        </from>
+<hr/>
+        <from>
+            <p>selicciona un producto:</p>
+            <label>
+                <input type="radio" name="producto" value="aguacate"><!--etiqueta para poder seleccionar y deseleccionar-->
+                el aguacate de axarquia
+            </label><!--etiqueta para definir la descripcion de input-->
+            <br>
+            <label>
+                <input type="radio" name="producto" value="platano">
+                el platano de canarias
+            </label>
+            <br>
+            <label>
+                <input type="radio" name="producto" value="chirimolla">
+                la chirimolla de motril
+            </label>
+            <br>
+            <label>
+                <input type="radio" name="producto" value="logan">
+                el logan de china
+            </label>
+            <br>
+        </from>
+<hr/>
+        <form>
+            <p>indica el que mas te guste</p>
+            <label>
+                <input type="checkbox" name="producto" value"aguacate"><!--tipo chekbox para casilla de identifocacion-->
+                 aguacate de axarquia
+            </label>
+        </form>
+ <hr/>
+        <form>
+            <label>
+                escoja una fruta
+                <select>
+                    <option name"producto">aguacate</option>
+                    <option name"producto">platano</option>
+                    <option name"producto">chirimolla</option>
+                    <option name"producto">logan</option>
+            </label>
+<hr/>
+            <!--Input tipo submit para enviar los datosenvío-->
+            <label>
+                enviar formulario
+                <input type="submit">
+            </label>
+
+            <label>
+                eliminar datos
+                <input type="reset">
+            </label>
+            <!--Input tipo reset para eliminar la selección-->
+            <label hidden>
+                <p>asasdassac</p>
+            </label>
+        </form>       
+      
+    </body>
+
+
+
+</html>
