@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+     <head>
+          <meta charset="uft-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+          <title>SKATEBOARDING</title>
+          <link rel="stylesheet" href="segundastyles.css">
+          <script src="segundascript.js" defer></script>
+     </head>
+
+     <body>
+          <header>
+               <h1>INICIANDO A PATINAR</h1>
+               <img src="portada.jpg" style="width: 50%;;">
+
+               <nav>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href="tabla.html">COMBINACIONES</a>
+               </nav>
+          </header>
+
+          <main>
+              <h2>HABLEMOS SOBRE EL SKATEBOARDING</h2>
+              <p>El skate empezó a practicarse en los años 50 por surfistas que 
+               querían tener la sensación de cabalgar las olas en tierra firme.
+               Desde entonces, ha pasado de ser un pasatiempo casual a una desafiante proeza atlética. 
+               En 2020, el skate obtuvo por fin el reconocimiento que merece como deporte olímpico.
+               Teniendo en cuenta su evolucion se debe destacar que enpezaron ciendo cajas de madera
+              </p>
+              <img src="skateboards.avif" style="width: 50%;"><img src="skateboards viejas.jpg" style="width: 50%">
+               
+          </main> 
+          
+          <section>
+               <h2>Tener en cuenta</h2>
+               <p>Al inicir en el skate, es importante tener paciencia y no estresarse.
+                    comprender que requiere práctica y constancia, tener presente que se está expuesto,
+                    a caídas y posibles lesiones graves, por lo tanto es bueno tener cierta proteccíon,
+                    ya sea el casco, rodilleras o coderas, y si es posible todas juntas, 
+                    además de una buena hidratación
+               </p>
+
+               <h2>Primeros pasos</h2>
+               <p>Lo primero que se debe poner en práctica, es el equilibrio y estabilidad,
+                    con ayuda de un amigo o de una estructura como punto de apoyo,
+                    tomando en cuenta el piso, ya que si es muy liso 
+                    hay más probabilidad de caerse.
+               </p>
+               <img src="descarga.jpg" style="width: 40%">
+               <br>
+               <img src="descarga 1.jpg" style="width: 40%">
+          </section>
+
+          <aside>
+               <h3>Demostracion</h3>
+               <p>A medida que se practica se podrán lograr desde el truco mas básico,
+                    hasta poder realizar trucos con una alta dificultad.    
+               </p>
+               <ul>
+                    <li><a href="https://www.youtube.com/watch?v=IACP4KtHwJw" target="_blank">Demostracón del olli.</a></br></li>
+                    <li><a href="https://www.youtube.com/watch?v=JIAVZ7D_NXU" target="_blank">Demostración del kickflip.</a></br></li>
+                    <li><a href="https://www.youtube.com/watch?v=V6IbO1CnueM" target="_blank">Demostración del hospitalflip.</a></br></li>
+                    
+               </ul>
+          </aside>
+
+          <article>
+               <h2>COMBINACIONES</h2>
+               <p>En la tabla que se muestra al entrar en el enlace, se da a conocer los trucos
+                  que puedes realizar en conjunto para hacer combinaciones increíbles 
+               </p>
+               <il><a href="tabla.html" target="_blank">COMBINACIONES</a></br></il>
+          </article>
+     </body>
+
+</html>
