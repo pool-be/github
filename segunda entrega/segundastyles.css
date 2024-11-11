@@ -10,7 +10,7 @@ sbody {
      }
 
 h1, h2, h3 {
-     color:#254;
+     color:rgb(0, 0, 0);
            }  
 /* Estilos para el encabezado*/
 header {
@@ -39,13 +39,13 @@ header nav a:hover {
 /* Estilos para el contenido principal */
 main {
         padding: 20px;        
-        background-color: #f9f9f9;
+        background-color: #a93535;
         box-sizing: border-box;
      }
         
 /* Estilos para section */
 section {
-        background-color: #eef;
+        background-color: rgb(154, 154, 223);
         padding: 20px;
         margin-top: 10px;
         }
@@ -53,7 +53,7 @@ section {
 /* Estilos para el aside */
 aside {
      padding: 20px;
-     background-color: #f0f0f0;
+     background-color: #ce2626;
      margin-top: 20px;
      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
      box-sizing: border-box;
@@ -79,16 +79,16 @@ aside ul li a:hover {
         
 /* Estilos para el artículo */
 article {
-        background-color: #fdfdfd;
+        background-color: #db3c3c;
         margin-top: 10px;
         padding: 20px;
-        border: 1px solid #ddd;
+        border: 1px solid #1b8795;
         }
         
 /* Estilos para la fecha en el artículo */
 .fecha {
         font-size: 0.9em;
-        color: #777;
+        color: rgba(245, 245, 245, 0.997);
        }
         
 /* Estilos para figure y figcaption */
@@ -110,10 +110,10 @@ figcaption {
         
 /* Estilos para details */
 details {
-        background-color: #f7f7f7;
+        background-color: #0a44a9;
         padding: 10px;
         margin: 10px 0;
-        border: 1px solid #ddd;
+        border: 1px solid #7d0303;
         }
         
 summary {
@@ -124,13 +124,13 @@ summary {
 /* Estilos para el pie de página */
 footer {
         font-size: small;
-        background-color: #333;
-        color: white;
+        background-color: #000000;
+        color: rgb(255, 250, 250);
         text-align: center;
         padding: 10px;
        }
         
 /*Estilo del párrafo demo para mostrar la hora más pequeña*/
 #demo {
-    font-size: 25%;
+    font-size: 75%;
       }
