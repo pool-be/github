@@ -26,7 +26,7 @@
                En 2020, el skate obtuvo por fin el reconocimiento que merece como deporte olímpico.
                Teniendo en cuenta su evolucion se debe destacar que enpezaron ciendo cajas de madera
               </p>
-              <img src="skateboards.avif" style="width: 50%;"><img src="skateboards viejas.jpg" style="width: 50%">
+              <img src="skateboards.avif" alt="tablas" style="width: 50%;"> <img src="skateboards viejas.jpg" alt="skate" style="width: 50%">
                
           </main> 
           
@@ -45,9 +45,9 @@
                     tomando en cuenta el piso, ya que si es muy liso 
                     hay más probabilidad de caerse.
                </p>
-               <img src="descarga.jpg" style="width: 40%">
+               <img src="descarga.jpg" alt="pocicicon" style="width: 40%">
                <br>
-               <img src="descarga 1.jpg" style="width: 40%">
+               <img src="descarga 1.jpg" alt="pocicion" style="width: 40%">
           </section>
 
           <aside>
@@ -56,9 +56,9 @@
                     hasta poder realizar trucos con una alta dificultad.    
                </p>
                <ul>
-                    <li><a href="https://www.youtube.com/watch?v=IACP4KtHwJw" target="_blank">Demostracón del olli.</a></br></li>
-                    <li><a href="https://www.youtube.com/watch?v=JIAVZ7D_NXU" target="_blank">Demostración del kickflip.</a></br></li>
-                    <li><a href="https://www.youtube.com/watch?v=V6IbO1CnueM" target="_blank">Demostración del hospitalflip.</a></br></li>
+                    <li><a href="https://www.youtube.com/watch?v=IACP4KtHwJw" target="_blank">Demostracón del olli.</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=JIAVZ7D_NXU" target="_blank">Demostración del kickflip.</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=V6IbO1CnueM" target="_blank">Demostración del hospitalflip.</a></li>
                     
                </ul>
           </aside>
