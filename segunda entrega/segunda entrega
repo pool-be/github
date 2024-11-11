@@ -11,21 +11,24 @@
      <body>
           <header>
                <h1>INICIANDO A PATINAR</h1>
-               <img></img>
+               <img src="portada.jpg" style="width: 50%;;">
 
                <nav>
-                    <a href="/">Conocimineto basico</a>
-                    <a herf="/">Tener en cuenta</a>
-                    <a href="/">Primeros pasos</a>
-                    <a href="/">Demostracion</a>
+                    <a href=""></a>
+                    <a href=""></a>
+                    <a href="tabla.html">COMBINACIONES</a>
                </nav>
           </header>
 
           <main>
               <h2>HABLEMOS SOBRE EL SKATEBOARDING</h2>
-              <p>
-                  sdadwdadawdasdaeehthrtyh
+              <p>El skate empezó a practicarse en los años 50 por surfistas que 
+               querían tener la sensación de cabalgar las olas en tierra firme.
+               Desde entonces, ha pasado de ser un pasatiempo casual a una desafiante proeza atlética. 
+               En 2020, el skate obtuvo por fin el reconocimiento que merece como deporte olímpico.
+               Teniendo en cuenta su evolucion se debe destacar que enpezaron ciendo cajas de madera
               </p>
+              <img src="skateboards.avif" style="width: 50%;"><img src="skateboards viejas.jpg" style="width: 50%">
                
           </main> 
           
@@ -58,12 +61,16 @@
                     <li><a href="https://www.youtube.com/watch?v=IACP4KtHwJw" target="_blank">Demostracón del olli.</a></br></li>
                     <li><a href="https://www.youtube.com/watch?v=JIAVZ7D_NXU" target="_blank">Demostración del kickflip.</a></br></li>
                     <li><a href="https://www.youtube.com/watch?v=V6IbO1CnueM" target="_blank">Demostración del hospitalflip.</a></br></li>
-                    <il><a href="tabla.html" target="_blank">COMBINACIONES</a></br></il>
+                    
                </ul>
           </aside>
 
           <article>
-               <h2></h2>
+               <h2>COMBINACIONES</h2>
+               <p>En la tabla que se muestra al entrar en el enlace, se da a conocer los trucos
+                  que puedes realizar en conjunto para hacer combinaciones increíbles 
+               </p>
+               <il><a href="tabla.html" target="_blank">COMBINACIONES</a></br></il>
           </article>
      </body>
 
