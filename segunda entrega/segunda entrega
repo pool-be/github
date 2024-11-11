@@ -14,7 +14,6 @@
                <img src="portada.jpg" style="width: 50%;;">
 
                <nav>
-                    <a href=""></a>
                     <a href="tabla.html">COMBINACIONES</a>
                </nav>
           </header>
@@ -64,14 +63,6 @@
                </ul>
           </aside>
 
-          <article>
-               <h2>COMBINACIONES</h2>
-               <p>En la tabla que se muestra al entrar en el enlace, se da a conocer los trucos
-                  que puedes realizar en conjunto para hacer combinaciones increíbles 
-               </p>
-               <il><a href="tabla.html" target="_blank">COMBINACIONES</a></br></il>
-          </article>
-
           <figure>
                <img src="OIP.jpeg" alt="bowl" style="width: 70%;">
                <figcaption>saktepark bowl</figcaption>
@@ -98,7 +89,5 @@
                <a href="/privacy">política de privacidad</a>
                <p id="demo" class="fecha">publicado el<time datetime="2024-11-11">11 de noviembre de 2024</time></p>
           </footer>
-          
-      </body>
-
+     </body>
 </html>
