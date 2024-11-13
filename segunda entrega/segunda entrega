@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es-ES">
      <head>
-          <meta charset="uft-8">
+          <meta charset="utf-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">  
           <title>SKATEBOARDING</title>
           <link rel="stylesheet" href="segundastyles.css">
@@ -11,7 +11,7 @@
      <body>
           <header>
                <h1>INICIANDO A PATINAR</h1>
-               <img src="portada.jpg" style="width: 50%;;">
+               <img src="portada.jpg" alt ="portada" style="width: 50%;">
 
                <nav>
                     <a href="tabla.html">COMBINACIONES</a>
@@ -26,13 +26,13 @@
                En 2020, el skate obtuvo por fin el reconocimiento que merece como deporte olímpico.
                Teniendo en cuenta su evolucion se debe destacar que enpezaron ciendo cajas de madera
               </p>
-              <img src="skateboards.avif" alt="tablas" style="width: 50%;"> <img src="skateboards viejas.jpg" alt="skate" style="width: 50%">
+              <img src="skateboards.avif" alt="tablas" style="width: 50%;"> <img src="skateboards_viejas.jpg" alt="skate" style="width: 50%">
                
           </main> 
           
           <section>
                <h2>Tener en cuenta</h2>
-               <p>Al inicir en el skate, es importante tener paciencia y no estresarse.
+               <p>Al inicir en el skate, es importante teneSr paciencia y no estresarse.
                     comprender que requiere práctica y constancia, tener presente que se está expuesto,
                     a caídas y posibles lesiones graves, por lo tanto es bueno tener cierta proteccíon,
                     ya sea el casco, rodilleras o coderas, y si es posible todas juntas, 
@@ -47,7 +47,7 @@
                </p>
                <img src="descarga.jpg" alt="pocicicon" style="width: 40%">
                <br>
-               <img src="descarga 1.jpg" alt="pocicion" style="width: 40%">
+               <img src="descarga_1.jpg" alt="pocicion" style="width: 40%">
           </section>
 
           <aside>
