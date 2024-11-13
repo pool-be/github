@@ -5,14 +5,14 @@ sbody {
     padding: 0;
     box-sizing: border-box;
     display: flex;
-    flex-direction: column; /*aplica elemntos en la columna*/
-    min-height: 100vh; /*asegura que el body ocupe al menos la altura de la pantalla */ 
+    flex-direction: column; 
+    min-height: 100vh;  
      }
 
 h1, h2, h3 {
      color:#254;
            }  
-/* Estilos para el encabezado*/
+
 header {
     background-color: #37aed3;
     COLOR: rgb(219, 77, 77);
@@ -36,21 +36,18 @@ header nav a:hover {
             text-decoration: underline;
                    }
         
-/* Estilos para el contenido principal */
 main {
         padding: 20px;        
         background-color: #f9f9f9;
         box-sizing: border-box;
      }
-        
-/* Estilos para section */
+
+
 section {
         background-color: #eef;
         padding: 20px;
         margin-top: 10px;
         }
-        
-/* Estilos para el aside */
 aside {
      padding: 20px;
      background-color: #f0f0f0;
@@ -77,7 +74,6 @@ aside ul li a:hover {
         text-decoration: underline;
                     }
         
-/* Estilos para el artículo */
 article {
         background-color: #fdfdfd;
         margin-top: 10px;
@@ -85,13 +81,11 @@ article {
         border: 1px solid #ddd;
         }
         
-/* Estilos para la fecha en el artículo */
 .fecha {
         font-size: 0.9em;
         color: #777;
        }
         
-/* Estilos para figure y figcaption */
 figure {
         text-align: center;
         margin: 20px 0;
@@ -108,7 +102,6 @@ figcaption {
         margin-top: 5px;
            }
         
-/* Estilos para details */
 details {
         background-color: #f7f7f7;
         padding: 10px;
@@ -121,7 +114,6 @@ summary {
         cursor: pointer;
         }
         
-/* Estilos para el pie de página */
 footer {
         font-size: small;
         background-color: #333;
@@ -130,7 +122,6 @@ footer {
         padding: 10px;
        }
         
-/*Estilo del párrafo demo para mostrar la hora más pequeña*/
 #demo {
     font-size: 25%;
       }

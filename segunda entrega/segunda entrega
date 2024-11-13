@@ -14,8 +14,6 @@
                <img src="portada.jpg" style="width: 50%;;">
 
                <nav>
-                    <a href=""></a>
-                    <a href=""></a>
                     <a href="tabla.html">COMBINACIONES</a>
                </nav>
           </header>
@@ -28,7 +26,7 @@
                En 2020, el skate obtuvo por fin el reconocimiento que merece como deporte olímpico.
                Teniendo en cuenta su evolucion se debe destacar que enpezaron ciendo cajas de madera
               </p>
-              <img src="skateboards.avif" style="width: 50%;"><img src="skateboards viejas.jpg" style="width: 50%">
+              <img src="skateboards.avif" alt="tablas" style="width: 50%;"> <img src="skateboards viejas.jpg" alt="skate" style="width: 50%">
                
           </main> 
           
@@ -47,9 +45,9 @@
                     tomando en cuenta el piso, ya que si es muy liso 
                     hay más probabilidad de caerse.
                </p>
-               <img src="descarga.jpg" style="width: 40%">
+               <img src="descarga.jpg" alt="pocicicon" style="width: 40%">
                <br>
-               <img src="descarga 1.jpg" style="width: 40%">
+               <img src="descarga 1.jpg" alt="pocicion" style="width: 40%">
           </section>
 
           <aside>
@@ -58,20 +56,38 @@
                     hasta poder realizar trucos con una alta dificultad.    
                </p>
                <ul>
-                    <li><a href="https://www.youtube.com/watch?v=IACP4KtHwJw" target="_blank">Demostracón del olli.</a></br></li>
-                    <li><a href="https://www.youtube.com/watch?v=JIAVZ7D_NXU" target="_blank">Demostración del kickflip.</a></br></li>
-                    <li><a href="https://www.youtube.com/watch?v=V6IbO1CnueM" target="_blank">Demostración del hospitalflip.</a></br></li>
+                    <li><a href="https://www.youtube.com/watch?v=IACP4KtHwJw" target="_blank">Demostracón del olli.</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=JIAVZ7D_NXU" target="_blank">Demostración del kickflip.</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=V6IbO1CnueM" target="_blank">Demostración del hospitalflip.</a></li>
                     
                </ul>
           </aside>
 
-          <article>
-               <h2>COMBINACIONES</h2>
-               <p>En la tabla que se muestra al entrar en el enlace, se da a conocer los trucos
-                  que puedes realizar en conjunto para hacer combinaciones increíbles 
-               </p>
-               <il><a href="tabla.html" target="_blank">COMBINACIONES</a></br></il>
-          </article>
-     </body>
+          <figure>
+               <img src="OIP.jpeg" alt="bowl" style="width: 70%;">
+               <figcaption>saktepark bowl</figcaption>
+          </figure>
 
+          <details>
+               <summary>De que estan hechas</summary>
+               <p>Normalmente, están hechas de una madera flexible pero resistente,
+                  pero en ocasiones se fabrican con plástico y no son aptas para 
+                  realizar trucos.
+               </p>
+          </details>
+          
+          <details>     
+               <summary>Partes del skateboard</summary>
+               <p>Aparte de la tabla base, se le agregan los trucks,
+                  los rodamientos y las ruedas, que varían en tamaño y material,
+                  según la necesidad del skater
+               </p>
+          </details>
+          
+          <footer>
+               <p>© 2024 mi pagina novata. todo los derechos reservados.</p>
+               <a href="/privacy">política de privacidad</a>
+               <p id="demo" class="fecha">publicado el<time datetime="2024-11-11">11 de noviembre de 2024</time></p>
+          </footer>
+     </body>
 </html>
