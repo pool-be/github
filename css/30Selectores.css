@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body { 
+    background-color: #3b123b;
+
+     }
+p {
+    color: teal;
+    background-color: rgb(411, 15, 156);
+
+}     
+
+h1, h2 {
+    color: yellow; 
+}
+/* si a muchas cosas le pondre lla misma etiqueta
+ puedo juntarlas en una sola etiqueta*/
+
+ h2 {
+    background-color: aquamarine;
+ }
+
+ p span { /* selector desendiente, seleciona elementos dentro de otros elementos */
+       color: blue;  
+ }
+
+ /*selector de clase*/
+ .colorFondoGris{
+    color: white;
+    background-color: gray;
+ }
+ .tamañoGrande {
+      font-size: 3em;
+     }
+     
+#destacado{
+    text-decoration: underline;
+}
+
+
