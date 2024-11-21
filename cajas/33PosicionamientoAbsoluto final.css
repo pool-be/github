@@ -13,7 +13,8 @@
 img{ 
     height: 4em;
     position: absolute;
-    left: 0px;
+    left: 3em;
+    z-index: 3;
 
 }
 
@@ -29,7 +30,7 @@ img{
 }
 
 #inner2 {
-    border: 4px solid #bc2ed8;
+    border: 1px solid #bc2ed8;
       background-color: #7ba540;
       width: 6em;
       height: 4em;
