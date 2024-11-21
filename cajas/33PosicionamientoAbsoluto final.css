@@ -10,6 +10,13 @@
     position: relative;/*deja estatica la caja*/
 }
 
+img{ 
+    height: 4em;
+    position: absolute;
+    left: 0px;
+
+}
+
 #inner{
       border: 1px solid #000000;
       background-color: gray;
