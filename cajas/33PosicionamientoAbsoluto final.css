@@ -13,7 +13,7 @@
 img{ 
     height: 4em;
     position: absolute;
-    left: 3em;
+    left:  5em;
     z-index: 3;
 
 }
@@ -26,7 +26,7 @@ img{
       text-align: center;
       line-height: 4em; 
       position: absolute;
-      left: 9em;/*permite mober la caja interior*/
+      left: 30em;/*permite mober la caja interior*/
 }
 
 #inner2 {
@@ -37,7 +37,7 @@ img{
       text-align: center;
       line-height: 4em; 
       position: absolute;
-      left: 2em;
+      left: 5em;
 
 }
 
