@@ -1,0 +1,59 @@
+
+
+body{
+    background-color: rgba(4, 58, 22, 0.774);
+}
+
+img{
+    border-radius: 80%;
+}
+
+div.gallery {
+    border-radius: 60px;
+    margin: 5px;
+    border: 1px solid #3ad8ff;
+    float: left;
+    width: 180px;
+    background-color: aqua;
+  }
+  
+  H1{
+    text-align: center;
+  }
+  div.gallery:hover {
+    border: 1px solid #000000;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }  
