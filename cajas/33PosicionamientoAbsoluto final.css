@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#outer{
+    border: 1px solid #ff0000; 
+    margin: 5em;
+    height: 4em;/*em es mayor medida que px*/
+    position: relative;/*deja estatica la caja*/
+}
+
+img{ 
+    height: 4em;
+    position: absolute;
+    left:  5em;
+    z-index: 3;
+
+}
+
+#inner{
+      border: 1px solid #000000;
+      background-color: gray;
+      width: 6em;
+      height: 4em;
+      text-align: center;
+      line-height: 4em; 
+      position: absolute;
+      left: 30em;/*permite mober la caja interior*/
+}
+
+#inner2 {
+    border: 1px solid #bc2ed8;
+      background-color: #7ba540;
+      width: 6em;
+      height: 4em;
+      text-align: center;
+      line-height: 4em; 
+      position: absolute;
+      left: 5em;
+
+}
+

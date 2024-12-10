@@ -1,0 +1,64 @@
+/*  MODELO DE CAJAS: https://lenguajecss.com/css/modelo-de-cajas/que-es/ 
+Representación de los elementos HTML como una caja donde las dimensiones se representan
+como contenido, relleno (padding), borde y margen */  
+
+*{
+    margin:  3px; /*distancia entre el borde y el contenido*/
+    padding: 2px; /**/
+ }
+
+html{
+    font-size:  15px; /*px es la unidad mas pequeña del monitor*/
+}
+
+header{/*titulo*/
+        width: 1000px; /*ancho de la caja, de lo que este dentro,
+                         se puede usar % en ves de px*/
+        border: 7px solid red;/*borde de la caja*/
+        height:  100px;  /*alto de la caja */
+        background-color: cadetblue;
+        margin: 80px;/*separa completa la caja de la pagina*/
+        margin-top: 90px;/*sepracion parcial*/
+        margin-left: 20px;/*separacion parcial*/
+        padding: 80px;/*separacion del texto de la caja*/
+        background-image:url(descarga.png);/*marca de agua*/
+} 
+
+nav{     /*ududad de medida*/
+      width: 75%;       /* % representa el ancho del contenedor*/
+      height: 100px;     /**/    
+      background-color: rgb(149, 149, 211);
+      border-style: green;
+      margin: 50px;
+      padding: 20px;
+}
+
+nav ul{
+      list-style: none;
+}
+
+nav u li{
+    font: size 1.2em; ;
+}
+
+section{
+    width: 500px;
+    height: 100px;
+    background-color: rgb(160, 160, 192);
+    border: 10px groove #fd10ca;
+    font-size: 20px;
+    color: blue;
+    margin: 4em;
+    padding: 4em
+}
+
+footer{
+    width: 50;
+    text-align: center;
+    padding: 10px;
+    background-color: #333333;
+    color: white;
+    border-radius: 8px;
+    margin: 8px;
+}
+

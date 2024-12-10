@@ -1,0 +1,123 @@
+* { 
+    margin: 0px;
+    padding: 0px;
+}
+#outer {
+    border: 1px;
+    margin: 50px;
+    height: 1px;
+    position: relative;
+}
+#inner{
+      border:1px solid #AD1519;
+      background-color: #AD1519;
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      left: 0px;
+}
+#inner2{
+    border: 1px solid#AD1519;
+    background-color: #AD1519;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 50px;
+}
+#inner3{
+    border:1px solid #AD1519;
+    background-color: #AD1519;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+}
+#inner4{
+    border:1px solid #AD1519;
+    background-color: #AD1519;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 150px;
+}
+#inner5{
+    border:1px solid #AD1519;
+    background-color: #AD1519;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+}
+#inner6{
+    border:1px solid#AD1519;
+    background-color: #AD1519;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 250px;
+}
+
+#outer2{
+    border: 1px solid #fabd00;
+    border: 0px solid #fabd00;
+    margin: 50px;
+    height: 1px;
+    width: 50px;
+    position: relative;
+}
+#inner7{
+    border: 1px solid #fabd00;
+       background-color: #fabd00;
+       width: 50px;
+       height: 50px;
+       position: absolute;
+       left: 0px;
+}
+#inner8{
+    border: 1px solid #fabd00;
+    background-color: #fabd00;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 50px;
+}
+#inner9{
+    border: 1px solid #fabd00;
+    background-color: #fabd00;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 100px;
+}
+#inner10{
+    border: 1px solid #fabd00;
+    background-color: #fabd00;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 150px;
+}
+#inner11{
+    border: 1px solid  #fabd00;
+    background-color: #fabd00;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 200px;
+}
+#inner12{
+    border:1px solid #fabd00;
+    background-color: #fabd00;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 250px;
+}
+
+#img{
+    height: 100px;
+    width: 100px;
+    left: 50px;
+    position: absolute;    
+    z-index: 2;
+}
